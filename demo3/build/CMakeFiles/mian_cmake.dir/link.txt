@@ -1,0 +1,1 @@
+/usr/bin/c++ -rdynamic CMakeFiles/mian_cmake.dir/main.cpp.o CMakeFiles/mian_cmake.dir/src/Soldier.cpp.o CMakeFiles/mian_cmake.dir/src/Gun.cpp.o -o mian_cmake 
